@@ -14,10 +14,10 @@ Ce que j'aime construire : des pipelines de données propres, des modèles de Ma
 ## 📌 Projets
 
 ### [SmartLock-IHM](https://github.com/DeVinci-FabLab/SmartLock-IHM)
-Interface tactile Python/CustomTkinter pour une armoire connectée du DeVinci FabLab, déployée sur Raspberry Pi (lecture badge NFC, API REST sécurisée Keycloak, pilotage GPIO). Projet d'équipe, j'ai développé l'IHM.
+Interface tactile Python/CustomTkinter pour une armoire connectée du DeVinci FabLab, déployée sur Raspberry Pi (lecture badge NFC, API REST sécurisée Keycloak, pilotage GPIO). J'étais dans l'équipe informatique du projet, j'ai en particulier fait l'IHM.
 
 ### [Prédiction de prix Airbnb](https://github.com/loish3/Airbnb_Algo_Apprentissage)
-Régression du prix d'un logement à partir de 28 variables : feature engineering, comparaison de 8 modèles, Random Forest + GridSearchCV retenu. **RMSE 0.37 vs 0.66 en baseline (-44 %)**. En binôme.
+Régression du prix d'un logement à partir de 28 variables : feature engineering, comparaison de 8 modèles, Random Forest + GridSearchCV retenu. **RMSE 0.37 vs 0.66 en baseline (-44 %)**. 
 
 ### [Ultimate Tic-Tac-Toe : IA de jeu](https://github.com/loish3/fondement-IA-morption)
 IA de jeu (Minimax + élagage Alpha-Beta, heuristique maison) affrontant d'autres IA en tournoi chronométré. Python puis portage en C pour la performance. **2ᵉ place du tournoi de la classe.**
