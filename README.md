@@ -20,7 +20,7 @@ Interface tactile Python/CustomTkinter pour une armoire connectée du DeVinci Fa
 Régression du prix d'un logement à partir de 28 variables : feature engineering, comparaison de 8 modèles, Random Forest + GridSearchCV retenu. **RMSE 0.37 vs 0.66 en baseline (-44 %)**. En binôme.
 
 ### [Ultimate Tic-Tac-Toe : IA de jeu](https://github.com/loish3/fondement-IA-morption)
-IA de jeu (Minimax + élagage Alpha-Beta, heuristique maison) affrontant d'autres IA en tournoi chronométré. Python puis portage en C pour la performance. **2ᵉ place du tournoi de la promotion.**
+IA de jeu (Minimax + élagage Alpha-Beta, heuristique maison) affrontant d'autres IA en tournoi chronométré. Python puis portage en C pour la performance. **2ᵉ place du tournoi de la classe.**
 
 ### [Liv'in Paris](https://github.com/Matissegeoffray/PSI-Rendu_Geoffray_Halmaert_Huang)
 Plateforme C# de mise en relation cuisiniers/clients pour la livraison de repas à Paris (modèle Entité-Association, MySQL). Projet d'équipe, j'ai développé les algorithmes de plus court chemin (Dijkstra, Bellman-Ford, Floyd-Warshall) appliqués au réseau du métro parisien.
