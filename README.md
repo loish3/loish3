@@ -6,10 +6,10 @@ Ce que j'aime construire : des pipelines de données propres, des modèles de Ma
 
 ## 🧰 Stack
 
-- **Langages** : Python, C#, C, SQL
+- **Langages** : Python, C#, C++, C, SQL
 - **Data / ML** : pandas, numpy, scikit-learn, feature engineering, validation croisée
 - **Dev** : Git, API REST, MySQL, bases de données relationnelles
-- **Autre** : Raspberry Pi, GPIO, NFC - quand le code doit sortir de l'écran
+- **Autre** : Raspberry Pi, GPIO, NFC
 
 ## 📌 Projets
 
