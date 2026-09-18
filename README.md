@@ -1,15 +1,15 @@
-# Salut, je suis Loïs 👋
+# Salut, je suis Loïs 
 
-Étudiant en dernière année à l'**ESILV** (École Supérieure d'Ingénieurs Léonard de Vinci), spécialisation **Big Data / Intelligence Artificielle**. Je recherche un **stage** dans ce domaine.
+Étudiant en 4ème année à l'**ESILV** (École Supérieure d'Ingénieurs Léonard de Vinci), spécialisation **Big Data / Intelligence Artificielle**. Je recherche un **stage** dans ce domaine.
 
-Ce que j'aime construire : des pipelines de données propres, des modèles de Machine Learning qu'on peut expliquer, et des applications qui tournent vraiment sur du matériel réel (pas que sur mon PC).
+Ce que j'aime construire : des pipelines de données propres, des modèles de Machine Learning qu'on peut expliquer, et des applications qui tournent vraiment sur du matériel réel.
 
 ## 🧰 Stack
 
 - **Langages** : Python, C#, C, SQL
 - **Data / ML** : pandas, numpy, scikit-learn, feature engineering, validation croisée
 - **Dev** : Git, API REST, MySQL, bases de données relationnelles
-- **Autre** : Raspberry Pi, GPIO, NFC — quand le code doit sortir de l'écran
+- **Autre** : Raspberry Pi, GPIO, NFC - quand le code doit sortir de l'écran
 
 ## 📌 Projets
 
