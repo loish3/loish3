@@ -25,6 +25,12 @@ IA de jeu (Minimax + élagage Alpha-Beta, heuristique maison) affrontant d'autre
 ### [Liv'in Paris](https://github.com/Matissegeoffray/PSI-Rendu_Geoffray_Halmaert_Huang)
 Plateforme C# de mise en relation cuisiniers/clients pour la livraison de repas à Paris (modèle Entité-Association, MySQL). Projet d'équipe, j'ai développé les algorithmes de plus court chemin (Dijkstra, Bellman-Ford, Floyd-Warshall) appliqués au réseau du métro parisien.
 
+### [Alterdune](https://github.com/Guilhem-H/Alterdune)
+Jeu de rôle au tour par tour en C++/SFML : combat, inventaire, bestiaire. Projet d'équipe, j'ai développé l'IHM (menus, combat, inventaire, bestiaire, stats) ainsi que les classes de base du jeu.
+
+### [Le Jeu du Boggle](https://github.com/Matissegeoffray/Le-jeu-du-Boogle)
+Jeu de lettres Boggle en C# : recherche récursive de mots sur une grille de dés, validation par recherche dichotomique dans un dictionnaire, génération d'un nuage de mots. Projet d'équipe, j'ai développé la classe des dés, la recherche récursive de mots et la génération du nuage de mots.
+
 ---
 
 📫 Ouvert aux opportunités de stage Big Data / IA, n'hésitez pas à me contacter.
