@@ -2,7 +2,7 @@
 
 Étudiant en 4ème année à l'**ESILV** (École Supérieure d'Ingénieurs Léonard de Vinci), spécialisation **Big Data / Intelligence Artificielle**. Je recherche un **stage** dans ce domaine.
 
-Ce que j'aime construire : des pipelines de données propres, des modèles de Machine Learning qu'on peut expliquer, et des applications qui tournent vraiment sur du matériel réel.
+Ce que j'aime construire : des pipelines de données propres, des modèles de Machine Learning qu'on peut étudier.
 
 ## 🧰 Stack
 
