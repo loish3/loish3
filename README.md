@@ -33,4 +33,4 @@ Jeu de lettres Boggle en C# : recherche récursive de mots sur une grille de dé
 
 ---
 
-📫 Ouvert aux opportunités de stage Big Data / IA, n'hésitez pas à me contacter.
+📫 Ouvert aux opportunités de stage Data / IA, n'hésitez pas à me contacter.
